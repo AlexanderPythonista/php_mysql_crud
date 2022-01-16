@@ -3,4 +3,4 @@ Task App With **php and mysql**
 
 
 # Screenshot
-![](docs/screenshot.png)
+![](screenshot.png)
